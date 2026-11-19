@@ -7,3 +7,13 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
+
+[[scrypts]]
+    id="experimental-additions"
+    source="https://raw.githubusercontent.com/carrierpigeondev/extra-catalogues/refs/heads/main/experimental-additions.toml"
+    [[scrypts.roles]]
+        role = "fetch"
+        actor = "http-actor"
+    [[scrypts.roles]]
+        role = "install"
+        actor = "single-file-write-actor"
