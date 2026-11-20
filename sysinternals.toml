@@ -12,6 +12,9 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
 
 [[scrypts]]
     id="ADExplorer.exe"
@@ -22,7 +25,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="ADInsight.exe"
     source="https://live.sysinternals.com/ADInsight64.exe"
@@ -32,7 +38,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="adrestore.exe"
     source="https://live.sysinternals.com/adrestore64.exe"
@@ -42,7 +51,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="Autologon.exe"
     source="https://live.sysinternals.com/Autologon64.exe"
@@ -52,7 +64,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="Autoruns.exe"
     source="https://live.sysinternals.com/Autoruns64.exe"
@@ -62,7 +77,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="autorunsc.exe"
     source="https://live.sysinternals.com/autorunsc64.exe"
@@ -72,7 +90,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="Bginfo.exe"
     source="https://live.sysinternals.com/Bginfo64.exe"
@@ -82,7 +103,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="Cacheset.exe"
     source="https://live.sysinternals.com/Cacheset64.exe"
@@ -92,7 +116,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="Clockres.exe"
     source="https://live.sysinternals.com/Clockres64.exe"
@@ -102,7 +129,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="Contig.exe"
     source="https://live.sysinternals.com/Contig64.exe"
@@ -112,7 +142,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="Coreinfo.exe"
     source="https://live.sysinternals.com/Coreinfo64.exe"
@@ -122,7 +155,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="CoreinfoEx.exe"
     source="https://live.sysinternals.com/CoreinfoEx64.exe"
@@ -132,7 +168,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="CPUSTRES.EXE"
     source="https://live.sysinternals.com/CPUSTRES64.EXE"
@@ -142,7 +181,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="Dbgview.exe"
     source="https://live.sysinternals.com/dbgview64.exe"
@@ -152,7 +194,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="dbgviewcli.exe"
     source="https://live.sysinternals.com/dbgviewcli64.exe"
@@ -162,7 +207,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="Desktops.exe"
     source="https://live.sysinternals.com/Desktops64.exe"
@@ -172,7 +220,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="disk2vhd.exe"
     source="https://live.sysinternals.com/disk2vhd64.exe"
@@ -182,7 +233,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="diskext.exe"
     source="https://live.sysinternals.com/diskext64.exe"
@@ -192,7 +246,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="Diskmon.exe"
     source="https://live.sysinternals.com/Diskmon64.exe"
@@ -202,7 +259,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="DiskView.exe"
     source="https://live.sysinternals.com/DiskView64.exe"
@@ -212,7 +272,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="du.exe"
     source="https://live.sysinternals.com/du64.exe"
@@ -222,7 +285,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="FindLinks.exe"
     source="https://live.sysinternals.com/FindLinks64.exe"
@@ -232,7 +298,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="handle.exe"
     source="https://live.sysinternals.com/handle64.exe"
@@ -242,7 +311,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="hex2dec.exe"
     source="https://live.sysinternals.com/hex2dec64.exe"
@@ -252,7 +324,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="junction.exe"
     source="https://live.sysinternals.com/junction64.exe"
@@ -262,7 +337,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="Listdlls.exe"
     source="https://live.sysinternals.com/Listdlls64.exe"
@@ -272,7 +350,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="livekd.exe"
     source="https://live.sysinternals.com/livekd64.exe"
@@ -282,7 +363,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="LoadOrd.exe"
     source="https://live.sysinternals.com/LoadOrd64.exe"
@@ -292,7 +376,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="LoadOrdC.exe"
     source="https://live.sysinternals.com/LoadOrdC64.exe"
@@ -302,7 +389,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="logonsessions.exe"
     source="https://live.sysinternals.com/logonsessions64.exe"
@@ -312,7 +402,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="movefile.exe"
     source="https://live.sysinternals.com/movefile64.exe"
@@ -322,7 +415,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="notmyfault.exe"
     source="https://live.sysinternals.com/notmyfault64.exe"
@@ -332,7 +428,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="notmyfaultc.exe"
     source="https://live.sysinternals.com/notmyfaultc64.exe"
@@ -342,7 +441,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="ntfsinfo.exe"
     source="https://live.sysinternals.com/ntfsinfo64.exe"
@@ -352,7 +454,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="pendmoves.exe"
     source="https://live.sysinternals.com/pendmoves64.exe"
@@ -362,7 +467,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="pipelist.exe"
     source="https://live.sysinternals.com/pipelist64.exe"
@@ -372,7 +480,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="procdump.exe"
     source="https://live.sysinternals.com/procdump64.exe"
@@ -382,7 +493,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="procexp.exe"
     source="https://live.sysinternals.com/procexp64.exe"
@@ -392,7 +506,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="Procmon.exe"
     source="https://live.sysinternals.com/Procmon64.exe"
@@ -402,7 +519,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="PsExec.exe"
     source="https://live.sysinternals.com/PsExec64.exe"
@@ -412,7 +532,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="psfile.exe"
     source="https://live.sysinternals.com/psfile64.exe"
@@ -422,7 +545,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="PsGetsid.exe"
     source="https://live.sysinternals.com/PsGetsid64.exe"
@@ -432,7 +558,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="PsInfo.exe"
     source="https://live.sysinternals.com/PsInfo64.exe"
@@ -442,7 +571,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="pskill.exe"
     source="https://live.sysinternals.com/pskill64.exe"
@@ -452,7 +584,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="pslist.exe"
     source="https://live.sysinternals.com/pslist64.exe"
@@ -462,7 +597,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="PsLoggedon.exe"
     source="https://live.sysinternals.com/PsLoggedon64.exe"
@@ -472,7 +610,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="psloglist.exe"
     source="https://live.sysinternals.com/psloglist64.exe"
@@ -482,7 +623,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="pspasswd.exe"
     source="https://live.sysinternals.com/pspasswd64.exe"
@@ -492,7 +636,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="psping.exe"
     source="https://live.sysinternals.com/psping64.exe"
@@ -502,7 +649,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="PsService.exe"
     source="https://live.sysinternals.com/PsService64.exe"
@@ -512,7 +662,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="psshutdown.exe"
     source="https://live.sysinternals.com/psshutdown64.exe"
@@ -522,7 +675,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="pssuspend.exe"
     source="https://live.sysinternals.com/pssuspend64.exe"
@@ -532,7 +688,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="RAMMap.exe"
     source="https://live.sysinternals.com/RAMMap64.exe"
@@ -542,7 +701,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="RDCMan.exe"
     source="https://live.sysinternals.com/RDCMan.exe"
@@ -552,7 +714,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="RegDelNull.exe"
     source="https://live.sysinternals.com/RegDelNull64.exe"
@@ -562,7 +727,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="ru.exe"
     source="https://live.sysinternals.com/ru64.exe"
@@ -572,7 +740,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="sdelete.exe"
     source="https://live.sysinternals.com/sdelete64.exe"
@@ -582,7 +753,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="ShareEnum.exe"
     source="https://live.sysinternals.com/ShareEnum64.exe"
@@ -592,7 +766,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="sigcheck.exe"
     source="https://live.sysinternals.com/sigcheck64.exe"
@@ -602,7 +779,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="streams.exe"
     source="https://live.sysinternals.com/streams64.exe"
@@ -612,7 +792,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="strings.exe"
     source="https://live.sysinternals.com/strings64.exe"
@@ -622,7 +805,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="sync.exe"
     source="https://live.sysinternals.com/sync64.exe"
@@ -632,7 +818,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="Sysmon.exe"
     source="https://live.sysinternals.com/Sysmon64.exe"
@@ -642,7 +831,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="tcpvcon.exe"
     source="https://live.sysinternals.com/tcpvcon64.exe"
@@ -652,7 +844,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="tcpview.exe"
     source="https://live.sysinternals.com/tcpview64.exe"
@@ -662,7 +857,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="Testlimit.exe"
     source="https://live.sysinternals.com/Testlimit64.exe"
@@ -672,7 +870,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="vmmap.exe"
     source="https://live.sysinternals.com/vmmap64.exe"
@@ -682,7 +883,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="Volumeid.exe"
     source="https://live.sysinternals.com/Volumeid64.exe"
@@ -692,7 +896,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="whois.exe"
     source="https://live.sysinternals.com/whois64.exe"
@@ -702,7 +909,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="Winobj.exe"
     source="https://live.sysinternals.com/Winobj64.exe"
@@ -712,7 +922,10 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
-
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
 [[scrypts]]
     id="ZoomIt.exe"
     source="https://live.sysinternals.com/ZoomIt64.exe"
@@ -722,3 +935,7 @@
     [[scrypts.roles]]
         role = "install"
         actor = "single-file-write-actor"
+    [[scrypts.roles]]
+        role = "link"
+        actor = "windows-shortcut-actor.exe"
+        
