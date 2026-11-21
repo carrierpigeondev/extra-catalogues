@@ -10,7 +10,7 @@
     [[scrypts.roles]]
         role = "integrity"
         actor = "sha256-actor"
-        args = ["7c3b6e28fd0eee20170a07be5ceae001e466d8948b32feb005c447f4cf7c3c21"]
+        args = ["7c3b6e28fd0eee20170a07be5ceae001e466d8948b32feb005c447f4cf7c3c21_"]
     [[scrypts.roles]]
         role = "link"
         actor = "symlink-actor"
